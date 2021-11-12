@@ -7,7 +7,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5HQAaUHMpzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tacotron2 + Wavernn sample
-
+[Sample](/github.wav)
 
 
 ## 3D Face reconstruction
