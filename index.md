@@ -11,7 +11,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 
 ## 3D Face reconstruction
-<img style="float: right; width: 25%; height: 25%; padding-left: 15px" src="/assets/faces.png" alt="faces"/>
+<img style="float: right; width: 25%; height: 25%; padding-left: 15px" src="/alchemi5t.github.io/docs/assets/faces.png" alt="faces"/>
 
 ## Anomaly Detection
 
