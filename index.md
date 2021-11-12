@@ -8,6 +8,6 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 
 ## 3D Face reconstruction
-![faces png](/alchemi5t/assets/faces.png)
+![faces png](/alchemi5t/docs/assets/faces.png)
 
 
