@@ -28,7 +28,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 [Paper](https://openreview.net/forum?id=vvLWTXkJ2Zv)
 
 ## Face detection and tracking
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hTb8s6TlM8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
