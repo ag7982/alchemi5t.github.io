@@ -11,7 +11,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 
 ## 3D Face reconstruction
-![facespng](https://github.com/alchemi5t/alchemi5t.github.io/blob/main/docs/assets/faces.png "Face reconstruction for frontolized face recognition")
+![faces png](https://github.com/alchemi5t/alchemi5t.github.io/blob/main/docs/assets/faces.png "Face reconstruction for frontolized face recognition")
 
 
 
