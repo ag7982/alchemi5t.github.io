@@ -8,6 +8,8 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 ## Tacotron2 + Wavernn sample
 [Sample](/github.wav)
+<audio ref='themeSong' src="/github.wav" autoPlay loop></audio>
+
 
 
 ## 3D Face reconstruction
