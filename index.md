@@ -15,7 +15,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 ## Anomaly Detection
 
-![Paper](https://openreview.net/forum?id=vvLWTXkJ2Zv)
+[Paper](https://openreview.net/forum?id=vvLWTXkJ2Zv)
 
 
 
