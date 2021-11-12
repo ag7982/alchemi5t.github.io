@@ -7,7 +7,7 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5HQAaUHMpzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tacotron2 + Wavernn sample
-<audio ref='themeSong' src="vendor/assets/music/Tetris.mp3" autoPlay loop></audio>
+<audio ref='themeSong' src="https://github.com/alchemi5t/alchemi5t.github.io/blob/main/docs/assets/github.wav" autoPlay loop></audio>
 
 
 ## 3D Face reconstruction
