@@ -21,10 +21,11 @@ I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying
 
 
 ## 3D Face reconstruction
-Reference:
+<b>Reference:</b>
 <img  src="/varun.jpeg" alt="faces"/>
 <br>
-Reconstruction:
+<br>
+<b>Reconstruction:</b>
 <img  src="/faces.png" alt="faces"/>
 
 ## Anomaly Detection
