@@ -1,5 +1,5 @@
 
-I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying Computer Science. I am interested in working on <br><br>
+I am a Master's Student at [NYU, Courant](https://www.courant.nyu.edu/) studying Computer Science. My interests lie in the following fields: <br><br>
 Computer Vision: Face detection, Face embeddings, 3D Face reconstructions, Anomaly detection, Object tracking, Crowd density estimation, Monocular depth estimation, Anchorless object detection pipelines<br><br>
 Natural Language Processing: Text Classification, Word embeddings, Semantic similarity, Data filtering based on training dynamics, Translation, Transliteration, Grammar construction and syntax validation<br><br>
 Speech: Automatic Speech Recognition, Text to Speech, Speech embeddings, Filtering data based on speech embeddings.<br><br> You can find my writing samples [here](https://scholar.google.com/citations?user=YgWXXZcAAAAJ&hl=en). 
